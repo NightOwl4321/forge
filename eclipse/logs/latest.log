@@ -1,0 +1,44 @@
+[18:19:00] [main/INFO]: Setting user: Player590
+[18:19:02] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:19:11] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Keiths Mod, FMLFileResourcePack:examplemod
+[18:19:12] [Sound Library Loader/INFO]: Sound engine started
+[18:19:13] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[18:19:13] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[18:19:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Keiths Mod, FMLFileResourcePack:examplemod
+[18:19:14] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
+[18:19:14] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:19:15] [Sound Library Loader/INFO]: Sound engine started
+[18:19:20] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[18:19:20] [Server thread/INFO]: Generating keypair
+[18:19:21] [Server thread/INFO]: Preparing start region for level 0
+[18:19:22] [Server thread/INFO]: Preparing spawn area: 43%
+[18:19:23] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:19:23] [Server thread/INFO]: Player590[local:E:613c9b13] logged in with entity id 376 at (625.5871634459494, 79.0, -1125.4708990179731)
+[18:19:23] [Server thread/INFO]: Player590 joined the game
+[18:22:13] [Client thread/INFO]: Warning: Clientside chunk ticking took 234 ms
+[18:22:14] [Client thread/INFO]: Warning: Clientside chunk ticking took 104 ms
+[18:22:14] [Client thread/INFO]: Warning: Clientside chunk ticking took 101 ms
+[18:22:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 115 ms
+[18:22:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 121 ms
+[18:22:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 143 ms
+[18:22:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 123 ms
+[18:22:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 105 ms
+[18:22:23] [Client thread/INFO]: Warning: Clientside chunk ticking took 118 ms
+[18:22:24] [Client thread/INFO]: Warning: Clientside chunk ticking took 114 ms
+[18:22:24] [Client thread/INFO]: Warning: Clientside chunk ticking took 116 ms
+[18:22:24] [Client thread/INFO]: Warning: Clientside chunk ticking took 150 ms
+[18:22:24] [Client thread/INFO]: Warning: Clientside chunk ticking took 105 ms
+[18:22:24] [Client thread/INFO]: Warning: Clientside chunk ticking took 123 ms
+[18:22:49] [Server thread/INFO]: Player590 has just earned the achievement [Taking Inventory]
+[18:22:49] [Client thread/INFO]: [CHAT] Player590 has just earned the achievement [Taking Inventory]
+[18:24:25] [Server thread/INFO]: Player590 fell out of the world
+[18:24:25] [Client thread/INFO]: [CHAT] Player590 fell out of the world
+[18:25:00] [Client thread/INFO]: Stopping!
+[18:25:00] [Server thread/INFO]: Stopping server
+[18:25:00] [Server thread/INFO]: Saving players
+[18:25:00] [Server thread/INFO]: Saving worlds
+[18:25:00] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[18:25:00] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:25:00] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[18:25:00] [Client Shutdown Thread/INFO]: Stopping server
+[18:25:00] [Client Shutdown Thread/INFO]: Saving players
